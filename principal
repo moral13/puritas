@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empresa de Calidad de Aguas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Empresa de Calidad de Aguas</h1>
+        <nav>
+            <ul>
+                <li><a href="https://empresa.tusitio.com">Empresa</a></li>
+                <li><a href="https://servicios.tusitio.com">Servicios</a></li>
+                <li><a href="https://transparencia.tusitio.com">Portal de Transparencia</a></li>
+                <li><a href="https://contacto.tusitio.com">Contacto</a></li>
+                <li><a href="https://clientes.tusitio.com">Área Cliente</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Bienvenido a nuestra empresa</h2>
+            <p>Somos especialistas en calidad del agua, ofreciendo soluciones innovadoras y sostenibles.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Empresa de Calidad de Aguas. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
